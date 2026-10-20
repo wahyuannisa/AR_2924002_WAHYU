@@ -13,7 +13,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: AR_2924002_WAHYU_ANNISA
+=======
+  productName: AR_2924002_WAHYU_ANNISA_
+>>>>>>> 6cf5ac72575493c2d6718d5f9bd1140cfdbdafae
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -149,8 +153,12 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 2.0.0
+<<<<<<< HEAD
   preloadedAssets:
   - {fileID: -944628639613478452, guid: 4419d82f33d36e848b3ed5af4c8da37e, type: 3}
+=======
+  preloadedAssets: []
+>>>>>>> 6cf5ac72575493c2d6718d5f9bd1140cfdbdafae
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   xboxOneDisableKinectGpuReservation: 1
@@ -170,7 +178,11 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
+<<<<<<< HEAD
     Android: com.wahyu
+=======
+    Android: com.unity.template.essentials-pathway
+>>>>>>> 6cf5ac72575493c2d6718d5f9bd1140cfdbdafae
     Standalone: com.unity.template.essentials-pathway
     iPhone: com.unity.template.essentials-pathway
   buildNumber:
@@ -535,10 +547,14 @@ PlayerSettings:
       m_Height: 720
       m_Kind: 1
       m_SubKind: 
+<<<<<<< HEAD
   m_BuildTargetBatching:
   - m_BuildTarget: Android
     m_StaticBatching: 1
     m_DynamicBatching: 0
+=======
+  m_BuildTargetBatching: []
+>>>>>>> 6cf5ac72575493c2d6718d5f9bd1140cfdbdafae
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode: []
@@ -955,7 +971,11 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
+<<<<<<< HEAD
   activeInputHandler: 2
+=======
+  activeInputHandler: 1
+>>>>>>> 6cf5ac72575493c2d6718d5f9bd1140cfdbdafae
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
   cloudProjectId: 7f7a7bfe-9403-43b5-b70f-61c013802ac0

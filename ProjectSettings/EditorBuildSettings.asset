@@ -4,10 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes:
   - enabled: 1
     path: Assets/Scene/Pertemuan05_Interaction.unity
     guid: 764592693d9d4814e999c4e3e28107bd
+=======
+  m_Scenes: []
+>>>>>>> 6cf5ac72575493c2d6718d5f9bd1140cfdbdafae
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 4419d82f33d36e848b3ed5af4c8da37e,
       type: 3}
